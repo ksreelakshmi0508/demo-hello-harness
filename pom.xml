@@ -22,7 +22,7 @@
         <sonar.host.url>http://3.239.7.195:9000/</sonar.host.url>
         <sonar.login>admin</sonar.login>
         <sonar.password>admin</sonar.password>
-        <sonar.projectBaseDir>/home/ubuntu/sonar</sonar.projectBaseDir>
+        <sonar.projectBaseDir>/home/ubuntu/sonarqube-7.3</sonar.projectBaseDir>
     </properties>
 
     <dependencies>
